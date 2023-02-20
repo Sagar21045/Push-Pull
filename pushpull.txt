@@ -1,1 +1,2 @@
 Hello, his name is XYZ.
+He is in class A.
