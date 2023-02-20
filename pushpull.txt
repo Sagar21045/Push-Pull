@@ -2,3 +2,4 @@ Hello, his name is XYZ.
 He is in class A.
 He is B years old.
 He is C ft in height.
+He is D kg in weight.
