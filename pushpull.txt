@@ -3,3 +3,4 @@ He is in class A.
 He is B years old.
 He is C ft in height.
 He is D kg in weight.
+He lives with E.
